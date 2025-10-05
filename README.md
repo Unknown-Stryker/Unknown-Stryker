@@ -1,8 +1,8 @@
 ## ✨ Hi, this is Unknown Stryker! ✨  
   
   
-- 🔭 I’ve been working on project Frogman for years.  
-Project Frogman is a game software engineering project that aims to build a military shooter game and its software development infrastructure from scratch!  
+- 🔭 I’ve been working on the project Frogman for years.  
+The project Frogman is a game software engineering project that aims to build a military shooter game and its software development infrastructure from scratch!  
 The goal is to understand how game software works and what can possibly be done to implement them.  
 
 - 🌱 I’ve been self-studying to build a game engine from scratch.  
