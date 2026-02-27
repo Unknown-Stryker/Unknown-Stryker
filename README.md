@@ -9,7 +9,7 @@ The goal is to understand how game software works and what can possibly be done 
 This is the link to the engine repository: https://github.com/Frogman-Engine/Frogman-Engine  
 <img width="833" height="835" alt="Frogman Engine Installer Transparent" src="https://github.com/user-attachments/assets/627599a8-8b2d-4999-b723-8dd8b1bfea3d" />
 
-- ⚡My favorite development tools are ...
+- ⚡My favorite development tools are ...  
 <img src="https://llvm.org/img/LLVMWyvernBig.png" width="128.5" height="80.5"/>  <img src="https://www.kitware.com/main/wp-content/uploads/2016/11/CMake-Logo-and-Text-e1540917038464.png" width="172.35" height="55.8"/>  <img src="https://isocpp.org/assets/images/cpp_logo.png" width="100" height="100"/>
 
 
